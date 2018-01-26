@@ -158,14 +158,14 @@ select[multiple]
 
 @font-face {
   font-family: "Roman";
-  src: url("../FONTS/1475520/57bf7902-79ee-4b31-a327-1bbf59a3d155.eot?#iefix");
-  src: url("../FONTS/1475520/57bf7902-79ee-4b31-a327-1bbf59a3d155.eot?#iefix")
+  src: url("../fonts/1475520/57bf7902-79ee-4b31-a327-1bbf59a3d155.eot?#iefix");
+  src: url("../fonts/1475520/57bf7902-79ee-4b31-a327-1bbf59a3d155.eot?#iefix")
       format("eot"),
-    url("../FONTS/1475520/b290e775-e0f9-4980-914b-a4c32a5e3e36.woff2")
+    url("../fonts/1475520/b290e775-e0f9-4980-914b-a4c32a5e3e36.woff2")
       format("woff2"),
-    url("../FONTS/1475520/4b978f72-bb48-46c3-909a-2a8cd2f8819c.woff")
+    url("../fonts/1475520/4b978f72-bb48-46c3-909a-2a8cd2f8819c.woff")
       format("woff"),
-    url("../FONTS/1475520/9bdf0737-f98c-477a-9365-ffc41b9d1285.ttf")
+    url("../fonts/1475520/9bdf0737-f98c-477a-9365-ffc41b9d1285.ttf")
       format("truetype");
 }
 
@@ -173,14 +173,14 @@ select[multiple]
 
 @font-face {
   font-family: "Heavy";
-  src: url("../FONTS/1475544/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix");
-  src: url("../FONTS/1475544/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix")
+  src: url("../fonts/1475544/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix");
+  src: url("../fonts/1475544/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix")
       format("eot"),
-    url("../FONTS/1475544/d513e15e-8f35-4129-ad05-481815e52625.woff2")
+    url("../fonts/1475544/d513e15e-8f35-4129-ad05-481815e52625.woff2")
       format("woff2"),
-    url("../FONTS/1475544/61bd362e-7162-46bd-b67e-28f366c4afbe.woff")
+    url("../fonts/1475544/61bd362e-7162-46bd-b67e-28f366c4afbe.woff")
       format("woff"),
-    url("../FONTS/1475544/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf")
+    url("../fonts/1475544/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf")
       format("truetype");
 }
 
@@ -188,14 +188,14 @@ select[multiple]
 
 @font-face {
   font-family: "Oblique";
-  src: url("../FONTS/1475526/1e9b2738-9316-4b0c-97c0-5423b69ea147.eot?#iefix");
-  src: url("../FONTS/1475526/1e9b2738-9316-4b0c-97c0-5423b69ea147.eot?#iefix")
+  src: url("../fonts/1475526/1e9b2738-9316-4b0c-97c0-5423b69ea147.eot?#iefix");
+  src: url("../fonts/1475526/1e9b2738-9316-4b0c-97c0-5423b69ea147.eot?#iefix")
       format("eot"),
-    url("../FONTS/1475526/1a7173fa-062b-49ad-9915-bc57d3bfc1f5.woff2")
+    url("../fonts/1475526/1a7173fa-062b-49ad-9915-bc57d3bfc1f5.woff2")
       format("woff2"),
-    url("../FONTS/1475526/cdda031e-26e9-4269-83d1-5a218caa10db.woff")
+    url("../fonts/1475526/cdda031e-26e9-4269-83d1-5a218caa10db.woff")
       format("woff"),
-    url("../FONTS/1475526/6d1ce413-19e7-4b43-b328-6cdedc58b35a.ttf")
+    url("../fonts/1475526/6d1ce413-19e7-4b43-b328-6cdedc58b35a.ttf")
       format("truetype");
 }
 
