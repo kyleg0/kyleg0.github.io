@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-3b1b6beb3047aeabcf1d.js","484370edc3e7d26791c1125eb1623e97"],["/commons-892d06806ab0cf06f0f3.js","405adcac825526a8ce227dfaa75b6e8c"],["/index.html","618bae30632742b7e0a8fcd17908cf25"],["/manifest.json","318013669c29cdc3f1a91de478a143c9"],["/offline-plugin-app-shell-fallback/index.html","a627dd838fde57bcf165c667ce91d978"]];
+var precacheConfig = [["/clinical-updates/app-3b1b6beb3047aeabcf1d.js","c732e86adae3ac4c0e299954783d827d"],["/clinical-updates/commons-892d06806ab0cf06f0f3.js","a542a418b41367419571d966d7583d92"],["/clinical-updates/index.html","c67173ef7633d11b9d92649191dae368"],["/clinical-updates/manifest.json","318013669c29cdc3f1a91de478a143c9"],["/clinical-updates/offline-plugin-app-shell-fallback/index.html","779d9cb390a2c3c1217ea396ff0c7d83"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
