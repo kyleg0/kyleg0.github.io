@@ -1467,6 +1467,18 @@ input, label, select, button, textarea{
 	}
 }
 
+.offset-four {
+  margin-left: 0 !important;
+  margin-right: 2% !important;
+}
+
+@media (min-width: 48rem) {
+
+	.offset-four {
+		margin-left: calc(99.9% * (-4/12 * -1) - (2% - 2% * (-4/12 * -1)) + 2%) !important;
+	}
+}
+
 /*!
  * Hamburgers
  * @description Tasty CSS-animated hamburgers
