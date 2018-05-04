@@ -2997,7 +2997,7 @@ strong {
 .banner__caption {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 0.5rem;
   background-color: rgba(0, 0, 0, 0.6);
   font-size: 0.5rem;
   text-transform: uppercase;
