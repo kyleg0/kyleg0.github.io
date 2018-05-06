@@ -3324,7 +3324,7 @@ strong {
     background-color: inherit;
 }
 
-.quote{
+/* .quote{
 	margin: 2% 0;
 	padding: 2% 0;
 }
@@ -3387,7 +3387,68 @@ strong {
 .quote__cite:before
 {
 	content: '— ';
+} */
+
+/* TODO: Fix quote__icon in person module */
+.quote__icon{
+	fill: #f47b20;
+	width: calc(99.9% * 1/12 - (2% - 2% * 1/12));
+	height: 3rem;
 }
+.quote__icon:nth-child(1n){
+	float: left;
+	margin-right: 2%;
+	clear: none;
+}
+
+.quote__icon:last-child{
+	margin-right: 0;
+}
+
+.quote__icon:nth-child(12n){
+	margin-right: 0;
+	float: right;
+}
+
+.quote__icon:nth-child(12n + 1){
+	clear: both;
+}
+
+.quote__table{
+  display: table;
+  margin: 2% 0;
+}
+
+.quote__row{
+  display: table-row;
+}
+
+.quote__svg{
+  display: table-cell;
+  width: 75%;
+  fill: #f47b20;
+}
+
+.quote__text{
+  display: table-cell;
+}
+
+.quote__body{
+
+}
+
+.quote__cite{
+  text-transform: uppercase;
+  font-family: 'Heavy', sans-serif;
+}
+
+.quote__cite::before{
+  display: inline-block;
+  height: 100%;
+  content: "— ";
+  white-space: pre;
+}
+
 
 .feature {
   position: relative;
