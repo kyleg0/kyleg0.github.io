@@ -1,2 +1,0 @@
-webpackJsonp([0xf923e28276db],{433:function(t,e){t.exports={data:{allWordpressPage:{edges:[{node:{wordpress_id:252,wordpress_parent:166,menu_order:4,title:"Postabortion contraception: When and what type",topics:[5],fields:{path:"postabortion-care/contraception"}}}]}},pathContext:{topic:5,name:"Contraception"}}}});
-//# sourceMappingURL=path---contraception-84facd9469d3ae976c7e.js.map
