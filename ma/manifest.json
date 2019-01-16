@@ -1,0 +1,13 @@
+{
+  "name": "MA Survey Tool - Ipas",
+  "icons": [
+    {
+      "src": "img/ma-icon-152x152.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": 4.0
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone"
+}

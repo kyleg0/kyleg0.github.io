@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+CACHE:
+app-shared.js
+app.css
+app.js
+index.html
+lib.js
+locales.js
+manifest.json
+img/mva-icon-120x120.png
+img/mva-icon-152x152.png
+img/mva-icon-192x192.png
+img/mva-icon-60x60.png
+img/smallLogo.png
+
+NETWORK:
+*
+
+# hash: e169bf133816fa058667871d1a523e86725447ce646ad1429ceb4a310632c3a2

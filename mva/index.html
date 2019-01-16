@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html manifest="app.appcache">
+  <head>
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+    <!-- Apple Web App -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="img/mva-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/mva-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/mva-icon-152x152.png">
+
+    <!-- Chrome Web App -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="manifest" href="manifest.json">
+
+    <title>MVA Survey Tool - Ipas</title>
+    
+    <link href="app.css" media="all" rel="stylesheet" type="text/css" />
+
+    <script src="lib.js"></script>
+  </head>
+  <body>
+    <div id="main" class="container">
+      <div class="loader">
+        <div class="spinner">Loading</div>
+      </div>
+      <noscript>  
+        <h1>Javascript is required for this application</h1>
+        <p>
+          Try enabling Javascript and reloading the page while you have an internet connection.
+        </p>
+        <p>
+          Activer Javascript et recharger la page alors que vous avez une connexion Internet.
+        </p>
+        <p>
+          Habilitar Javascript y vuelva a cargar la página, mientras que usted tiene una conexión a Internet.
+        </p>
+      </noscript>
+    </div>
+    <script src="locales.js"></script>
+    <script src="app-shared.js"></script>
+    <script src="app.js"></script>
+    <footer className="centertext">
+      <p>© 1998-2016 Ipas &middot; All rights reserved</p>
+    </footer>
+  </body>
+</html>

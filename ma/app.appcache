@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+CACHE:
+app-shared.js
+app.css
+app.js
+index.html
+lib.js
+locales.js
+manifest.json
+img/ma-icon-120x120.png
+img/ma-icon-152x152.png
+img/ma-icon-192x192.png
+img/ma-icon-60x60.png
+img/smallLogo.png
+
+NETWORK:
+*
+
+# hash: 83dde1b4f2b35238ebe7e4464225ffb98c34ac6255db94b37faadf4fd67f9b48
